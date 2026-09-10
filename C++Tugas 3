@@ -3,9 +3,9 @@
 using namespace std;
 int main() {
     int a,b,total;
-    cout<<"masukkan Jumlah Barang ";//Masuk Di HTML
+    cout<<"masukkan Jumlah panjang ";//Masuk Di HTML
     cin>>a;//Masuk Di HTML
-    cout<<"masukan Jumlah Barang ";//Masuk Di HTML
+    cout<<"masukan Jumlah lebar ";//Masuk Di HTML
     cin>>b;//Masuk Di HTML
     total=a+b;
     cout<<total;
