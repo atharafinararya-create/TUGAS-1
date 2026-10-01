@@ -26,7 +26,7 @@ jobs:
       - name: Compile C++
         shell: msys2 {0}
         run: |
-          g++ main.cpp -o main.exe -static
+          g++ nama.cpp -o main.exe -static
 
       - name: Upload EXE
         uses: actions/upload-artifact@v4
